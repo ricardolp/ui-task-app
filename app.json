@@ -1,0 +1,12 @@
+{
+  "name": "task_app",
+  "displayName": "task_app",
+  "expo": {
+    "name": "task_app",
+    "slug": "task_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
